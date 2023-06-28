@@ -1,2 +1,2 @@
-# udacity_ml_devops_engineer
+# Udacity ML Devops Engineer
 Repository for Udacity's Machine Learning Devops Engineer Nanodegree.
